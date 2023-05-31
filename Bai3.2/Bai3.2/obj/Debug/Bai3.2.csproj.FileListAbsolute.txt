@@ -1,0 +1,7 @@
+C:\Users\lmh20\OneDrive\Documents\Bai3.2\Bai3.2\bin\Debug\Bai3.2.exe.config
+C:\Users\lmh20\OneDrive\Documents\Bai3.2\Bai3.2\bin\Debug\Bai3.2.exe
+C:\Users\lmh20\OneDrive\Documents\Bai3.2\Bai3.2\bin\Debug\Bai3.2.pdb
+C:\Users\lmh20\OneDrive\Documents\Bai3.2\Bai3.2\obj\Debug\Bai3.2.csproj.AssemblyReference.cache
+C:\Users\lmh20\OneDrive\Documents\Bai3.2\Bai3.2\obj\Debug\Bai3.2.csproj.CoreCompileInputs.cache
+C:\Users\lmh20\OneDrive\Documents\Bai3.2\Bai3.2\obj\Debug\Bai3.2.exe
+C:\Users\lmh20\OneDrive\Documents\Bai3.2\Bai3.2\obj\Debug\Bai3.2.pdb
